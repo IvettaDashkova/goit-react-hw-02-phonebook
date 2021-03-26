@@ -1,0 +1,36 @@
+body {
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+   font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+  
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+input:hover,
+input:focus {
+  outline-color:rgb(67, 138, 168)
+}
